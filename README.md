@@ -89,7 +89,7 @@ python main.py
 ```
 
 ## 📚 Auteur
-Projet développé dans le cadre d'un projet par binome (& Arris Zaidi) sur les **Tours de Hanoï** en Python.
+Projet développé dans le cadre d'un projet par binome (& Racim ZENATI) sur les **Tours de Hanoï** en Python.
 
 
 
